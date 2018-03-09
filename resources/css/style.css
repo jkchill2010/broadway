@@ -1,5 +1,6 @@
 #header {
   background-image: url(./media/the-flatiron-building.png);
+  min-width: 100%;
   text-align: center;
   position: relative;
   margin: 0;
@@ -65,13 +66,9 @@ p {
   text-align: left;
   background-color: dimgray;
   color: white;
+  font-size: 11px;
 }
 
 .footernav {
-  font-size: 20px;
   text-decoration: underline;
-}
-
-.footercopy {
-  font-size: 11px;
 }
